@@ -50,7 +50,7 @@ export const projectsData = [
     name: "Gaming",
     description: "Gaming website by React.js,Tailwind CSS,GSAP",
     date: "2024-11-23",
-    demoLink: "https://journeylogger.example.com",
+    demoLink: "https://gaming-tan-eight.vercel.app/",
   },
 
 ];
